@@ -64,7 +64,7 @@ header {
   text-align: center;
   background: var(--card-bg-color);
   border-bottom: 2px solid var(--card-primary-color);
-  border-radius: 6px;
+  border-radius: 35px;
 }
 .card h2 {
   display:flex;
@@ -136,7 +136,7 @@ header {
 
 @media (min-width: 700px){
   #cards {
-    max-width: 1750px;
+    max-width: 1710px;
     flex-direction: row;
     flex-wrap: wrap;
   }

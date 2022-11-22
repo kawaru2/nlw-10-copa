@@ -53,6 +53,10 @@ header {
   text-align: center;
 
 }
+a {
+  color: yellow;
+
+}
 #cards {
   display: flex;
   flex-direction: column;
